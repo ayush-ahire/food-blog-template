@@ -8,3 +8,16 @@ Have used the following frameworks and libraries
 2. Tailwind CSS
 3. Vanilla Tilt js
 4. Animate CSS
+
+
+## Deployment and hosting
+
+To check out my template click the following link below:
+
+
+https://food-blog-template-pi.vercel.app/
+
+
+----------------------------------------------------
+
+
