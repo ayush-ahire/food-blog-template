@@ -1,0 +1,11 @@
+@import url(https://fonts.googleapis.com/css?family=Bree+Serif:regular);
+body{
+    font-family: Bree Serif;
+}
+a{
+    cursor: pointer;
+}
+.site-logo{
+    height: 35px;
+    width: 35px;
+}
